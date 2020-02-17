@@ -1,0 +1,17 @@
+= Programmieren mit dem ESP8266 in NwT Klasse 9
+Author Jan Lubitzki
+// Metadata:
+:description: Dies ist ein Projekt für den NwT Unterricht in Klasse Baden-Württemberg.
+:keywords: NwT, Programmierung, ESP8266, Klasse 9
+// Settings:
+:icons: font
+:idprefix:
+:idseparator: -
+// Refs:
+:url-project: www.mbgym.de
+:url-docs: {url-project}/docs
+:url-issues:  https://github.com/asciidoctor/asciidoctor
+:img-ci: https://img.shields.io/travis/asciidoctor/asciidoctor/master.svg
+
+Hier kommt etwas Text.
+Noch etwas.
